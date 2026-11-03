@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Document Converter",
+    "description": "Convert Word, PDF, Markdown, HTML, TXT, Excel/CSV and PowerPoint files from a workspace panel or the convert_document tool."
+  }
+}

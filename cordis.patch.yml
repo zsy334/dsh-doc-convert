@@ -1,0 +1,4 @@
+# dsh-doc-convert bundle patch: one Host row plus the Client module declared in package.json.
+- insert:
+    - id: doc-convert
+      name: 'dsh-doc-convert'
